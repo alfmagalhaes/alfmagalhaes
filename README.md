@@ -1,4 +1,4 @@
-### Olá.. eu sou Allef Magalhaes 💡 
+### Olá..! eu sou Allef Magalhaes 💡 
 
 ![Alef GitHub stats](https://github-readme-stats.vercel.app/api?username=alfmagalhaes&show_icons=true&theme=gruvbox)
 
